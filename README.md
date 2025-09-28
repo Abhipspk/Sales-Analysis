@@ -19,5 +19,5 @@ This project answers 6 key business questions:
 * Task 6: Comparing Sales Trends Across Categories
 
 ## How to View the Project
-* **Python Code**: The full analysis can be viewed in the  .
+* **Python Code**: The full analysis can be viewed in the https://github.com/Abhipspk/Sales-Analysis/blob/797c072997f708898cbc96ed7219111338522a41/Analysis.ipynb.
 * **Interactive Dashboard**: A live, interactive dashboard can be viewed here: https://lookerstudio.google.com/reporting/d309043f-0a0c-42e1-b883-27ef3662b799
