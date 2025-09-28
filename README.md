@@ -3,7 +3,7 @@
 This repository contains the work completed for the data analysis internship. The project involves analyzing a sales dataset to derive key business insights using Python and Google Looker Studio.
 
 ## Dataset
-The dataset used for this analysis is `finaldataset.csv`.
+The dataset used for this analysis is https://github.com/Abhipspk/Sales-Analysis/blob/b6fc6c2018299f879bbc118d3b196bff40da5be3/finaldataset.csv.
 
 ## Tools Used
 * **Python**: Pandas for data manipulation, Matplotlib & Seaborn for visualization.
